@@ -1,0 +1,48 @@
+body{
+    background-color: #fafbff;
+    text-align: center;
+}
+.box1{
+    background-color: #ffffff;
+    padding: 20px;
+    width: 300px;
+    border-radius: 5px;
+}
+input{
+    width: 300px;
+    height: 30px;
+}
+.a1{
+    width: 308px;
+    height: 30px;
+    background-color: #27ae5f;
+    border: none;
+    border-radius: 5px;
+}
+.a2{
+    background-color: #3b5a9a;
+    width: 250px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
+.boxes{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.box2{
+    padding: 20px;
+    background-color: #ffffff;
+    width: 300px;
+    border-radius: 5px;
+
+}
+.end{
+    display: flex;
+    gap: 2px;
+    justify-content: center;
+}
+.beqa1{
+    width: 430px;
+}
